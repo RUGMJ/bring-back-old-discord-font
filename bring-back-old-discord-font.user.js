@@ -6,7 +6,7 @@
 // @author       RUGMJ
 // @match        https://discord.com/channels/*
 // @icon         https://www.google.com/s2/favicons?domain=discord.com
-// @resource      customCss https://github.com/rugmj/bring-back-old-discord-font
+// @resource      customCss https://raw.githubusercontent.com/RUGMJ/bring-back-old-discord-font/main/custom.css
 // @grant         GM_addStyle
 // @grant         GM_getResourceText
 // ==/UserScript==
